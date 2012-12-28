@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/jython.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/mina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/poi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/slf4j-nop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy/Desktop/RuneForge/deps/xstream.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
