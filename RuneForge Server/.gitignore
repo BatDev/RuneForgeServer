@@ -1,5 +1,6 @@
 *.class
 /Data
+/bin
 
 # Package Files #
 *.jar
